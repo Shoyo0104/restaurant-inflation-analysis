@@ -1,0 +1,7 @@
+{
+  "cities": ["Philadelphia","Las Vegas","Phoenix","Nashville","Tampa","New Orleans","Charlotte","Pittsburgh","Saint Louis","Indianapolis","Tucson","Reno"],
+  "tier1":  [1934, 1277, 1547, 1234, 1272,  956, 1071, 1001, 975,  1032, 942,  758],
+  "tier2":  [1698, 1175, 1305, 1038,  999,  838,  887,  823, 793,   757, 693,  649],
+  "tier3":  [ 882,  872,  578,  594,  443,  564,  427,  368, 334,   293, 270,  264],
+  "tier4":  [ 308,  619,  184,  242,  161,  276,  157,  120, 113,   105,  81,   88]
+}

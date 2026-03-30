@@ -1,0 +1,14 @@
+[
+  {"city":"Philadelphia","state":"PA","lat":39.9526,"lon":-75.1652,"restaurant_count":4821,"total_reviews":68340,"avg_price_tier":1.93,"avg_stars":3.72,"tier1_pct":40.1,"tier2_pct":35.2,"tier3_pct":18.3,"tier4_pct":6.4},
+  {"city":"Las Vegas","state":"NV","lat":36.1699,"lon":-115.1398,"restaurant_count":3942,"total_reviews":61200,"avg_price_tier":2.18,"avg_stars":3.68,"tier1_pct":32.4,"tier2_pct":29.8,"tier3_pct":22.1,"tier4_pct":15.7},
+  {"city":"Phoenix","state":"AZ","lat":33.4484,"lon":-112.074,"restaurant_count":3614,"total_reviews":52100,"avg_price_tier":1.87,"avg_stars":3.71,"tier1_pct":42.8,"tier2_pct":36.1,"tier3_pct":16.0,"tier4_pct":5.1},
+  {"city":"Nashville","state":"TN","lat":36.1627,"lon":-86.7816,"restaurant_count":3108,"total_reviews":48900,"avg_price_tier":2.01,"avg_stars":3.74,"tier1_pct":39.7,"tier2_pct":33.4,"tier3_pct":19.1,"tier4_pct":7.8},
+  {"city":"Tampa","state":"FL","lat":27.9506,"lon":-82.4572,"restaurant_count":2876,"total_reviews":42300,"avg_price_tier":1.81,"avg_stars":3.69,"tier1_pct":44.2,"tier2_pct":34.8,"tier3_pct":15.4,"tier4_pct":5.6},
+  {"city":"New Orleans","state":"LA","lat":29.9511,"lon":-90.0715,"restaurant_count":2634,"total_reviews":41800,"avg_price_tier":2.03,"avg_stars":3.79,"tier1_pct":36.3,"tier2_pct":31.8,"tier3_pct":21.4,"tier4_pct":10.5},
+  {"city":"Charlotte","state":"NC","lat":35.2271,"lon":-80.8431,"restaurant_count":2541,"total_reviews":37200,"avg_price_tier":1.88,"avg_stars":3.70,"tier1_pct":42.1,"tier2_pct":34.9,"tier3_pct":16.8,"tier4_pct":6.2},
+  {"city":"Pittsburgh","state":"PA","lat":40.4406,"lon":-79.9959,"restaurant_count":2312,"total_reviews":33400,"avg_price_tier":1.85,"avg_stars":3.71,"tier1_pct":43.3,"tier2_pct":35.6,"tier3_pct":15.9,"tier4_pct":5.2},
+  {"city":"Saint Louis","state":"MO","lat":38.627,"lon":-90.1994,"restaurant_count":2218,"total_reviews":30100,"avg_price_tier":1.83,"avg_stars":3.68,"tier1_pct":44.0,"tier2_pct":35.8,"tier3_pct":15.1,"tier4_pct":5.1},
+  {"city":"Indianapolis","state":"IN","lat":39.7684,"lon":-86.1581,"restaurant_count":2187,"total_reviews":28900,"avg_price_tier":1.77,"avg_stars":3.67,"tier1_pct":47.2,"tier2_pct":34.6,"tier3_pct":13.4,"tier4_pct":4.8},
+  {"city":"Tucson","state":"AZ","lat":32.2226,"lon":-110.9747,"restaurant_count":1987,"total_reviews":26100,"avg_price_tier":1.76,"avg_stars":3.65,"tier1_pct":47.4,"tier2_pct":34.9,"tier3_pct":13.6,"tier4_pct":4.1},
+  {"city":"Reno","state":"NV","lat":39.5296,"lon":-119.8138,"restaurant_count":1758,"total_reviews":22330,"avg_price_tier":1.82,"avg_stars":3.66,"tier1_pct":43.1,"tier2_pct":36.9,"tier3_pct":15.0,"tier4_pct":5.0}
+]

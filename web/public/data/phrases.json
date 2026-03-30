@@ -1,0 +1,17 @@
+[
+  {"phrase": "expensive",           "count": 8432},
+  {"phrase": "pricey",              "count": 5218},
+  {"phrase": "overpriced",          "count": 3871},
+  {"phrase": "a bit pricey",        "count": 2964},
+  {"phrase": "good value",          "count": 2741},
+  {"phrase": "not worth",           "count": 2193},
+  {"phrase": "affordable",          "count": 1987},
+  {"phrase": "prices have gone up", "count": 1642},
+  {"phrase": "reasonable price",    "count": 1518},
+  {"phrase": "worth the price",     "count": 1342},
+  {"phrase": "cheap",               "count": 1284},
+  {"phrase": "great deal",          "count": 1176},
+  {"phrase": "rip-off",             "count":  984},
+  {"phrase": "price hike",          "count":  762},
+  {"phrase": "too expensive",       "count":  681}
+]

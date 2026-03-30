@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --navy-900: #0a0f1e;
+  --navy-800: #0f172a;
+  --navy-700: #1e293b;
+  --navy-600: #334155;
+  --amber:    #fbbf24;
+  --text:     #e2e8f0;
+  --muted:    #94a3b8;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--navy-900);
+  color: var(--text);
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Chart tooltip overrides */
+.recharts-tooltip-wrapper .recharts-default-tooltip {
+  background-color: #1e293b !important;
+  border: 1px solid #334155 !important;
+  border-radius: 8px !important;
+  color: #e2e8f0 !important;
+}
+
+/* Leaflet dark map controls */
+.leaflet-container {
+  background: #0f172a;
+}
+.leaflet-control-zoom a {
+  background-color: #1e293b !important;
+  color: #e2e8f0 !important;
+  border-color: #334155 !important;
+}
+.leaflet-popup-content-wrapper {
+  background-color: #1e293b !important;
+  color: #e2e8f0 !important;
+  border: 1px solid #334155;
+}
+.leaflet-popup-tip {
+  background-color: #1e293b !important;
+}
+
+@layer components {
+  .card {
+    @apply bg-navy-800 border border-navy-600 rounded-xl p-6;
+  }
+  .stat-card {
+    @apply bg-navy-700 border border-navy-600 rounded-xl p-5 flex flex-col gap-1;
+  }
+  .section-title {
+    @apply text-2xl font-bold text-white mb-1;
+  }
+  .section-sub {
+    @apply text-slate-400 text-sm mb-6;
+  }
+  .pill {
+    @apply inline-flex items-center px-3 py-1 rounded-full text-xs font-medium;
+  }
+}

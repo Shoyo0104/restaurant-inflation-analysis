@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+.env
+
+# Pipeline data (large files — not committed)
+pipeline/data/raw/
+pipeline/data/sample/
+pipeline/data/processed/
+pipeline/data/*.db
+
+# Next.js
+web/.next/
+web/node_modules/
+web/.env*.local
+
+# OS
+.DS_Store
+Thumbs.db

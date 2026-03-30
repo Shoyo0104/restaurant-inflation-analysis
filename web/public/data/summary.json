@@ -1,0 +1,17 @@
+{
+  "pearson_r": 0.847,
+  "pearson_p": 0.0001,
+  "pearson_r_yoy": 0.761,
+  "pearson_p_yoy": 0.0003,
+  "regression_slope": 0.00821,
+  "regression_r2": 0.717,
+  "n_months": 96,
+  "total_cities": 12,
+  "total_restaurants": 31248,
+  "total_reviews": 412670,
+  "years_covered": "2015\u20132023",
+  "cpi_series": "CUSR0000SEFV \u2014 Food Away from Home",
+  "pci_avg_pre2020": 15.9,
+  "pci_avg_2022": 34.6,
+  "cpi_peak_yoy": 8.2
+}
